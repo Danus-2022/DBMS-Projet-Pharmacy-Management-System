@@ -1,1 +1,1 @@
-# DBMS-Projet-Pharmacy-Management-System
+# DBMS-Project-Pharmacy-Management-System
